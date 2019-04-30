@@ -1,7 +1,7 @@
 // Visualization: Canny Edge Detection
 
 import java.util.Map;
-import g4p_controls;
+
 
 PImage img;
 int img_height,img_width;
